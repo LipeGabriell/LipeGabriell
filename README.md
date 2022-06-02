@@ -1,7 +1,7 @@
 # 💫Sobre mim :
-👩‍💻Cursando Ciência da Computação e atualmente aprendendo tecnologias Front-End.
-📋Estudando: HTML, CSS, TypeScript/JS.
-👨‍💼Em busca de uma primeira vaga na área.
+👩‍💻Cursando Ciência da Computação e atualmente aprendendo tecnologias Front-End.<br/>
+📋Estudando: HTML, CSS, TypeScript/JS.<br/><br/>
+👨‍💼Em busca de uma primeira vaga na área.<br/>
 
 ## 🌐Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lipegabriell) 
