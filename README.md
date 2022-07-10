@@ -1,7 +1,7 @@
 # 💫Sobre mim :
 👩‍💻Cursando Ciência da Computação e atualmente aprendendo tecnologias Front-End.<br/>
 🚧Conhecimentos: HTML, CSS/Sass, Bootstrap.<br/>
-📋Estudando: TypeScript/JS.<br/><br/>
+📋Estudando: ES6/JS.<br/><br/>
 👨‍💼Em busca de uma primeira vaga na área.<br/>
 
 ## 🌐Contato
