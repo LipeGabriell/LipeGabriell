@@ -1,6 +1,6 @@
 # 💫Sobre mim :
 👩‍💻Cursando Ciência da Computação e atualmente aprendendo tecnologias Front-End.<br/>
-🚧Conhecimentos: JavaScript, TypeScript, HTML, CSS, SCSS/Sass e Bootstrap. || Unity3D <br/>
+🚧Conhecimentos: JavaScript, TypeScript, HTML, CSS, SCSS, Bootstrap, Unity3D. <br/>
 📋Estudando: React.<br/><br/>
 👨‍💼Em busca de uma primeira vaga na área.<br/>
 
