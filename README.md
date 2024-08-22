@@ -1,5 +1,5 @@
 # 💫Sobre mim :
-👩‍💻Computer Science Student 
+👩‍💻Computer Science Student \n
 🎮 Unity 3D Dev || Learning Godot
 
 
